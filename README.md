@@ -1,1 +1,1 @@
-# Sign_Language_Recognition_with_cnn_rnn
+# This a sign language recognition project from signed videos using cnn and rnn
